@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+env/
+instance/
+*.log
+.DS_Store
+test_out.luau
+.vscode/
+.idea/
